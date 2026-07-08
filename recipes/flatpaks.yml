@@ -1,6 +1,6 @@
 ---
 
-type: default-flatpaks
+type: default-flatpaks@v1
 user:
     install:
         - org.mozilla.firefox
